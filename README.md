@@ -2,6 +2,10 @@
 //this is an software made by me for financial service, this is just a prototype made by me(gopal) at the age of 14.
 // A financial project made by Gopal sharma 13 yrs old. 2024-2025. FinWise 1.0;
 //libraries
+
+
+
+{
 #include<iostream>
 #include<ctime>
 #include<algorithm>
@@ -495,4 +499,5 @@ void choice(void){
     }
         }
     } 
+}
 }
